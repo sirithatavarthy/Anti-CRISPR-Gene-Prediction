@@ -24,7 +24,7 @@ Few points to remember
 
 
 Usage
-python Final_pipeline.py –f [Genome.fna]  -b [Outdir] -tsv  [Virsorter2 result.out/final-viral-boundary.tsv]
+python Acr_prediction.py –f [Genome.fna]  -b [Outdir] -tsv  [Virsorter2 result.out/final-viral-boundary.tsv]
 
 -f: Path and name of the input genome file
 -b: Output directory
